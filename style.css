@@ -1,0 +1,13 @@
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: navy;
+  font-family: fantasy;
+  background-image: url("https://lastfm-img2.akamaized.net/i/u/770x0/7bacb6fd54c934991b5a8aae05da7f01.jpg")
+}
+
+#album-one{
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/718oPVo6P-L._SY355_.jpg")
+}
