@@ -1,13 +1,13 @@
-body{
+body {
   background-size: cover;
   background-repeat: no-repeat;
-  color: navy;
-  font-family: fantasy;
-  background-image: url("https://lastfm-img2.akamaized.net/i/u/770x0/7bacb6fd54c934991b5a8aae05da7f01.jpg")
+  color: red;
+  font-family: Faster One, cursive;
+  background-image: url("https://www.angrymetalguy.com/wp-content/uploads/2011/04/Amaranthe_Web.jpg")
 }
 
 #album-one{
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url("https://images-na.ssl-images-amazon.com/images/I/718oPVo6P-L._SY355_.jpg")
+  background-image: url("https://target.scene7.com/is/image/Target/GUEST_afcfef25-1557-4e8c-96c1-3f1ff7941538?wid=488&hei=488&fmt=pjpeg")
 }
